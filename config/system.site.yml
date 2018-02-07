@@ -1,0 +1,14 @@
+uuid: 5cf201b3-fdc7-4a66-9398-de993cd0a747
+name: pantheon-d8-composer-project
+mail: Eric.Steinborn@ag.ny.gov
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
